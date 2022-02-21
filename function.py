@@ -1,3 +1,3 @@
-from juliasfinest.lib import try_me
+from fibonachos.lib import try_me
 
 try_me()
